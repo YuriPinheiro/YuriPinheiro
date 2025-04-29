@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Seu Nome]!  
+# 👋 Olá, eu sou o [Yuri]!  
 **Desenvolvedor Full-Stack | React & Golang**  
 
 💼 Atualmente trabalhando na [Prediza](https://prediza.io)  
