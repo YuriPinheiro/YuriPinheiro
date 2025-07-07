@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou o Yuri!  
-**Desenvolvedor Full-Stack | React & Golang**  
+**Desenvolvedor WEB Full-Stack | React & Golang**  | 5 anos de experiência em desenvolvimento
 
 💼 Atualmente trabalhando na [Prediza](https://prediza.io)  
 🌍 Caxias, RS, Brasil  
